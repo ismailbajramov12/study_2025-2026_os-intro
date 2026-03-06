@@ -2,8 +2,6 @@
 ## Author
 author:
   name: Байрамов Исмаил Мухандис оглы
-  degrees: DSc
-  orcid: 0000-0002-0877-7063
   email: 1032253514@rudn.ru
   affiliation:
     - name: Российский университет дружбы народов
